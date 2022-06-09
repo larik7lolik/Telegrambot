@@ -2,7 +2,7 @@
 import telebot
 # УДАЛЕНИЕ СЛОВ, СОДЕРЖАЩИХ ФРАЗУ "абв"
 bot = telebot.TeleBot(
-    '5471122376:AAFyp6IS0HUKVwEsYo7_qlroHQc5T8Y8Nw0')  # привязка к боту
+   'Bot token')  # привязка к боту
 
 # функция удаления
 
