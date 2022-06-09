@@ -6,7 +6,7 @@ import random
 
 # bot = telebot.TeleBot(botToken)
 bot = telebot.TeleBot(
-    '5471122376:AAFyp6IS0HUKVwEsYo7_qlroHQc5T8Y8Nw0')
+    botToken)
 
 candy=0
 fate = 0
